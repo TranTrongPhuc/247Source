@@ -1,0 +1,20 @@
+.frame_hide {
+    display: none;
+}
+
+.btnanswer_hide {
+    display: none;
+}
+
+.btn-circle-control {
+    border-radius: 100%!important;
+    height: 2.5rem!important;
+    width: 2.5rem!important;
+    font-size: 1rem!important;
+    display: inline-flex!important;
+    align-items: center!important;
+    justify-content: center!important;
+    margin-right: 10px;
+    width: 27px!important;
+    height: 27px!important;
+}

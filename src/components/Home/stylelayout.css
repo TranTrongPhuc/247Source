@@ -1,0 +1,28 @@
+/* .dialpadmodal {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    left: 83%;
+    top: 33%;
+}
+
+.dialpadbutton {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    left: 93%;
+    top: 90%;
+}
+
+.btndialpad {
+    width: 60px;
+    height: 60px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    float: right;
+    -webkit-box-shadow: -6px 6px 25px -10px rgba(0, 0, 0, 1);
+    -moz-box-shadow: -6px 6px 25px -10px rgba(0, 0, 0, 1);
+    box-shadow: 0px 0px 7px -3px rgba(0, 0, 0, 1);
+} */

@@ -1,0 +1,105 @@
+#bg-login {
+    background-image: url('/img/bg-login.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.content-wrapper {
+    background-color: transparent !important;
+}
+
+.auth-form {
+    width: 300px;
+    height: 390px;
+}
+
+.input01 {
+    /* margin: 40px 25px; */
+    width: 200px;
+    display: block;
+    border: none!important;;
+    padding: 10px 0!important;
+    border-bottom: solid 1px #7c9fcd !important;
+    transition: all 0.3s cubic-bezier(0.64, 0.09, 0.08, 1)!important;
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 96%, #1abc9c 4%);
+    background-position: -200px 0!important;;
+    background-size: 200px 100%!important;;
+    background-repeat: no-repeat!important;;
+    color: #0e6252!important;
+    border-radius: 0;
+}
+
+#btnLogin {
+    border-radius: 50px;
+    background-color: #0a448f !important;
+    border: none;
+    width: 100%;
+}
+
+.settingbutton {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    left: 94%;
+    top: 0.3%;
+}
+
+
+
+/* s */
+.container-scroller {
+    overflow: hidden;
+  }
+  .page-body-wrapper {
+    min-height: calc(100vh - 70px);
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 70px;
+  }
+
+  .page-body-wrapper.full-page-wrapper {
+    width: 100%;
+    min-height: 100vh;
+    padding-top: 0;
+}
+
+.auth .auth-form-light {
+    background: #ffffff;
+}
+.auth .brand-logo {
+    margin-bottom: 2rem;
+}
+.auth form .form-group {
+    margin-bottom: 1.5rem;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #6e707e;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #d1d3e2;
+    /* border-radius: .35rem; */
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+.content-wrapper {
+    background: #fff;
+    padding: 2rem 1rem;
+    width: 100%;
+    -webkit-flex-grow: 1;
+    flex-grow: 1;
+  }

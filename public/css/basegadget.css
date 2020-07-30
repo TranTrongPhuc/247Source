@@ -1,0 +1,229 @@
+
+
+.modal-backdrop {
+    opacity: 0.3;
+}
+
+.modalfilter {
+    margin-left: 400px;
+    margin-top: 100px;
+    width: 700px;
+    height: 700px;
+}
+
+body {
+    background-color: #f6f7fa;
+}
+
+.table-shadow {
+    -webkit-box-shadow: -3px 3px 19px -5px rgba(0,0,0,0.75);
+    -moz-box-shadow: -3px 3px 19px -5px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 13px -4px rgba(0,0,0,0.75);
+    border-radius: 4px;
+}
+
+.bg {
+    background-color: #fff;
+}
+
+.tr-font-text {
+    color: #88898e !important;
+    /* font-family: BeVietnam-Regular; */
+}
+
+.th-font-text {
+    color: #618bc2;
+    /* font-family: BeVietnam-Medium; */
+}
+
+.odd {
+    background-color: #f6f7fa !important;
+}
+
+.noborder-table {
+    border: none !important;
+}
+
+.header-tb-radius-left {
+    border-top-left-radius: 4px;
+}
+
+.header-tb-radius-right {
+    border-top-right-radius: 4px;
+}
+
+.dataTables_length {
+    margin-top: 10px;
+}
+
+#search_value {
+    border: 1px solid #ebedf2;
+    font-family: "ubuntu-regular", sans-serif;
+    font-size: 0.8125rem;
+    height: 28px;
+}
+
+.dataTables_length {
+    color: #88898e !important;
+    margin-top: 0px;
+}
+
+.dataTables_filter {
+    color: #88898e !important;
+}
+
+.dataTables_info {
+    color: #88898e !important;
+}
+
+.dataTables_paginate {
+    color: #88898e !important;
+}
+
+#select_showdisplay {
+    border: 1px solid #ebedf2;
+    font-family: "ubuntu-regular", sans-serif;
+    font-size: 0.8125rem;
+    height: 28px;
+}
+
+#btnFilter {
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+#btnRefresh {
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.display-playaudio {
+    margin-left: 50px;
+    padding-left: 5px;
+    float: left;
+    width: 500px;
+    height: 50px;
+    background-color: #e7e7e7;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.btncontrolaudio {
+    margin-left: 6px;
+    margin-top: 12px;
+    width: 25px;
+    height: 25px;
+    padding: 0px;
+}
+
+.play-time {
+    margin-left: 12px;
+    margin-top: 17px;
+    font-size: 12px;
+}
+
+.btn-gradient-primary {
+    background: linear-gradient(to right, #08336b, #0c4b9d) !important;
+    border-radius: 50px;
+    height: 30px;
+    margin-left: 30px;
+    padding-top: 8px;
+}
+
+.btn-gradient-primary {
+    background: linear-gradient(to right, #08336b, #0c4b9d) !important;
+    border-radius: 50px;
+}
+
+.btn-primary2 {
+    background: linear-gradient(to right, #08336b, #0c4b9d) !important;
+    color: white;
+}
+
+.btn-default2 {
+    background: linear-gradient(to right, #fff, #fff) !important;
+    color: #618bc2;
+}
+
+.btn-outline-default {
+    color: #9d9ea1;
+    background-color: transparent;
+    background-image: none;
+    border-color: #9d9ea1;
+    border-radius: 50%;
+}
+
+.box-shadow {
+    -webkit-box-shadow: -2px -1px 10px -3px rgba(0,0,0,0.75);
+    -moz-box-shadow: -2px -1px 10px -3px rgba(0,0,0,0.75);
+    box-shadow: -2px -1px 10px -3px rgba(0,0,0,0.75);
+    border-radius: 4px;
+}
+
+.btngrid {
+    width: 30px;
+    height: 30px;
+    padding: 0px;
+}
+
+.modal-transparent {
+    background-color: transparent !important;
+    border: none !important;
+}
+
+.custom-searchbutton {
+    border-top-right-radius: 5px !important;
+    border-bottom-right-radius: 5px !important;
+    background-color: #ffffff !important;
+    border: 0 !important;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    height: 28px;
+}
+
+.custom-searchbox {
+    border-top-left-radius: 5px !important;
+    border-bottom-left-radius: 5px !important;
+    border: 0 !important;
+    width: 250px;
+    height: 30px;
+    padding-left: 5px;
+    padding-top: 0px;
+    padding-bottom: 1px;
+    /* background-color: #f2f2f2 !important */
+}
+
+.time-char {
+    font-family: BeVietnam-Regular !important;
+}
+
+.date-char {
+    font-family: BeVietnam-Thin !important;
+}
+
+.table-bordered {
+    border-radius: 4px !important;
+}
+
+label {
+    font-family: BeVietnam-Thin !important;
+}
+
+#select_showdisplay{
+    font-family: BeVietnam-Regular!important;
+    border-radius: 4px !important;
+    border:none;
+    background-color:#fff
+}
+
+#tbl-conversations_info{
+    font-family: BeVietnam-Light!important;
+}
+
+#tbl-conversations_paginate{
+     font-family: BeVietnam-Light!important;
+}

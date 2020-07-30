@@ -1,0 +1,11 @@
+.div-intro{
+    /* background-image: url(https://cdn.dribbble.com/users/1941918/screenshots/3991993/icloud-download.gif); */
+    background-image: url(https://assets.materialup.com/uploads/364a969a-21fe-4243-803a-c71b5dcdae27/preview.gif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.text-intro{
+    font-size: 30px;
+    color: #4caf50;
+}

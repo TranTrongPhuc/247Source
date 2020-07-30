@@ -1,0 +1,146 @@
+.dialpadmodal {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    left: 83%;
+    top: 33%;
+}
+
+.dialpadbutton {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    left: 93%;
+    top: 90%;
+}
+
+.btndialpad {
+    width: 60px;
+    height: 60px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    float: right;
+    -webkit-box-shadow: -6px 6px 25px -10px rgba(0, 0, 0, 1);
+    -moz-box-shadow: -6px 6px 25px -10px rgba(0, 0, 0, 1);
+    box-shadow: 0px 0px 7px -3px rgba(0, 0, 0, 1);
+}
+
+.dialerpad-container {
+    width: 260px;
+    border-radius: 3%;
+    -webkit-box-shadow: -6px 6px 25px -10px rgba(0, 0, 0, 1);
+    -moz-box-shadow: -6px 6px 25px -10px rgba(0, 0, 0, 1);
+    box-shadow: 0px 0px 30px -11px rgba(0, 0, 0, 1);
+    background-color: white;
+}
+
+.dialerpad {
+    padding: 30px;
+    width: 100%;
+}
+
+.btnnumber {
+    width: 60px;
+    height: 60px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    float: right;
+    -webkit-box-shadow: -6px 6px 25px -10px rgba(0, 0, 0, 1);
+    -moz-box-shadow: -6px 6px 25px -10px rgba(0, 0, 0, 1);
+    box-shadow: 0px 0px 7px -3px rgba(0, 0, 0, 1);
+}
+
+.btnCall {
+    width: 60px;
+    height: 60px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    float: right;
+    background-color: green;
+    -webkit-box-shadow: -6px 6px 25px -10px rgba(0, 0, 0, 1);
+    -moz-box-shadow: -6px 6px 25px -10px rgba(0, 0, 0, 1);
+    box-shadow: 0px 0px 7px -3px rgba(0, 0, 0, 1);
+}
+
+.btnnumber-hide {
+    width: 60px;
+    height: 60px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    float: right;
+}
+
+.txtnumbercall {
+    margin-top: 12px;
+    margin-left: 12px;
+    padding-left: 25px;
+    padding-right: 25px;
+    height: 50px;
+    width: 70.5%;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Berlin Sans FB';
+    color: rgb(93, 121, 189);
+    border: none;
+    background-color: rgba(238, 238, 238, 0.959);
+}
+
+.btndelete {
+    margin-top: 12px;
+    width: 60px;
+    height: 50px;
+    margin-bottom: 10px;
+    float: right;
+    background-color: rgba(238, 238, 238, 0.959);
+    border-radius: 0px !important;
+}
+
+.keynum {
+    font-size: 25px;
+}
+
+.keytext {
+    font-size: 12px;
+}
+
+.aligncontent{
+    align-content: center;
+}
+
+.btn-circle-custom {
+    border-radius: 100%;
+    height: 2.5rem;
+    width: 2.5rem;
+    font-size: 1rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dialpad_hide{
+    display: none;
+}
+
+.btndialpad{
+    background-color: rgb(106, 236, 236);
+}
+
+.area_recentcall {
+    padding: 10px;
+    /* display: flex; */
+    justify-content: space-between;
+    position: fixed;
+    left: 68%;
+    top: 34%;
+}
+
+.item-recent{
+    font-size: 20px;
+    width: 70%;
+}
+
+.item-recent-select{
+    background-color: rgb(106, 236, 236);
+}

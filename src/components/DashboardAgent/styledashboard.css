@@ -1,0 +1,146 @@
+.dashboard-container{
+    width: 99%;
+}
+
+.container-chartcapacitycall {
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+}
+
+.container-item {
+    padding-top: 30px;
+    padding-left: 35px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+}
+
+.container-chartstate {
+    padding-top: 15px;
+    padding-left: 50px;
+    padding-right: 15px;
+    padding-bottom: 30px;
+}
+
+.container-charttotalcall {
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 30px;
+}
+
+.container-historylog {
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 77px;
+    padding-bottom: 30px;
+}
+
+.item-dashboard01 {
+    background-color: #fff;
+    margin-right: 30px;
+    height: 157px;
+}
+
+.item-dashboard02 {
+    background-color: #fff;
+    padding-left: 6px;
+    height: 157px;
+}
+
+.item-title {
+    padding-top: 20px;
+    padding-left: 20px;
+    color: #bebebe;
+    font-family: Tahoma;
+}
+
+.item-title02 {
+    padding-top: 20px;
+    padding-left: 40px;
+    color: #bebebe;
+    font-family: Tahoma;
+}
+
+.item-value {
+    width: 100%;
+    display: block;
+    text-align: right;
+    padding-top: 10px;
+    padding-left: 10px;
+    /*padding-top: 15px;*/
+    font-size: 60px;
+    color: #0e439f;
+    /*font-weight: 600;*/
+}
+
+.item-value02 {
+    width: 100%;
+    display: block;
+    text-align: right;
+    padding-top: 10px;
+    padding-left: 10px;
+    font-size: 55px;
+    color: #0e439f;
+}
+
+.item-value03 {
+    width: 100%;
+    display: block;
+    text-align: right;
+    padding-top: 10px;
+    padding-left: 10px;
+    font-size: 40px;
+    color: #0e439f;
+}
+
+.history-title {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 10px;
+    padding-left: 20px;
+    color: #bebebe;
+    font-family: Tahoma;
+    background-color: #fff;
+    height: 40px;
+    width: 100%;
+    border-radius: 4px;
+}
+
+tbody {
+    display: block;
+    height: 315px;
+    overflow: auto;
+}
+
+    thead, tbody tr {
+        display: table;
+        width: 100%;
+        table-layout: fixed;
+    }
+
+table {
+    width: 400px;
+}
+
+.progress {
+    /*background-color: #a1e59c !important*/
+}
+
+.width0{
+    width: 0%;
+}
+
+.width25{
+    width: 25%;
+}
+
+.width50{
+    width: 50%;
+}
+
+.width100{
+    width: 100%;
+}
+

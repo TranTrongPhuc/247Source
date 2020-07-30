@@ -1,0 +1,25 @@
+.bg-gradient-primary-custom {
+    background-color: #041020;
+    background-image: linear-gradient(180deg, #041020 10%, #0d4a9d 100%);
+    background-size: cover;
+}
+
+.select_screen {
+    color: #489175 !important;
+    background-color: rgba(0, 255, 255, 0.212);
+    border-left: aqua 3px solid;
+}
+
+.display-frame {
+    width: 100%;
+    height: 830px;
+    border: none
+}
+
+.screen_hide {
+    display: none;
+}
+
+.screen_show {
+    padding: 0px;
+}
